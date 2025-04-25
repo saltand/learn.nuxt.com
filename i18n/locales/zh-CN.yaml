@@ -1,0 +1,30 @@
+guide: 指南
+edit-this-page: 编辑此页面
+terminal:
+  name: 终端
+  restart: 重启终端
+  hide: 隐藏终端
+  toggle: 切换终端
+download-zip: 下载沙盒为 zip
+work-in-progress: 开发中
+search: 搜索
+color-mode:
+  to-dark: 切换到深色模式
+  to-light: 切换到浅色模式
+coming-soon: 敬请期待
+reset-challenge: 重置挑战
+show-solution: 显示答案
+search-dots: 搜索...
+steps:
+  initializing-webcontainer: 初始化 WebContainer
+  mounting-files: 挂载文件
+  installing-dependencies: 安装依赖
+  starting-nuxt-server: 启动 Nuxt 服务器
+  waiting-for-nuxt-to-ready: 等待 Nuxt 就绪
+restart-server: 重启服务器
+interactive-terminal-mode: 交互式终端模式
+files: 文件
+preview: 预览
+built: 已构建
+vueVersion: Vue 版本
+nuxtVersion: Nuxt 版本
